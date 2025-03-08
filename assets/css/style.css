@@ -119,6 +119,15 @@ h6 {
   text-decoration: none;
 }
 
+/* X (formerly Twitter) icon styling */
+#header .profile .social-links a.x {
+  background: #000000;
+}
+
+#header .profile .social-links a.x:hover {
+  background: #149ddd;
+}
+
 #main {
   margin-left: 300px;
 }
